@@ -1,0 +1,9 @@
+[
+    {
+        "id" : 1,
+        "name": "Workout Tracker",
+        "description": "A web application to track workouts and fitness progress.",
+        "technologies": ["JavaScript", "React", "Node.js", "MongoDB"],
+        "github": "https://github.com/WolfeCodes/workout-tracker"
+    }
+]
